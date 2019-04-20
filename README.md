@@ -1,4 +1,5 @@
 # cpp-gta-fxt2txt-txt2fxt-win32
+![alt text](https://github.com/aeneasoftroy/cpp-gta-fxt2txt-txt2fxt-win32/cpp-gta-fxt2txt-txt2fxt-win32.png)
 32bit conversion of the 16bit tool to convert fxt2txt and txt2fxt. I ran into problems running the original tool on modern x64 Win7 while making mods for GTA1 and decided to upgrade the tools to 32bit to make the modding easier.
 
 Compiler used: Microsoft Visual Studio 2008.
